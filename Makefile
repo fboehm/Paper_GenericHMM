@@ -16,7 +16,7 @@ CCapp/cc_analysis.html: CCapp/cc_analysis.Rmd
 	cd $(<D);R $(R_OPTS) -e "rmarkdown::render('$(<F)')"
 
 Figs/%.pdf: R/%.R DOapp/do_analysis.html CCapp/cc_analysis.html
-	cd $(<D);R CMD BATCH $(R_OPTS) $(<F)
+	mkdir -p $(<D); cd $(<D);R CMD BATCH $(R_OPTS) $(<F)
 
 # .tex to .pdf
 gen_hmm.pdf: LaTeX/gen_hmm.tex gen_hmm.bib genetics.bst $(FIGS)
