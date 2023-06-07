@@ -1,0 +1,199 @@
+\begin{thebibliography}{31}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{\rm Al-Barghouthi} {\em et~al.\/}(2021){\rm Al-Barghouthi}, {\rm
+  Mesner}, {\rm Calabrese}, {\rm Brooks}, {\rm Tommasini} {\em
+  et~al.\/}}]{albarghouthi2021}
+{\rm Al-Barghouthi, B.~M.}, {\rm L.~D. Mesner}, {\rm G.~M. Calabrese}, {\rm
+  D.~Brooks}, {\rm S.~M. Tommasini} {\em et~al.\/}, 2021 Systems genetics in
+  {D}iversity {O}utbred mice inform {BMD} {GWAS} and identify determinants of
+  bone strength.
+\newblock Nat Commun {\bf 12}: 3408.
+
+\bibitem[{{\rm Bandillo} {\em et~al.\/}(2013){\rm Bandillo}, {\rm Raghavan},
+  {\rm Muyco}, {\rm Sevilla}, {\rm Lobina} {\em et~al.\/}}]{bandillo2013}
+{\rm Bandillo, N.}, {\rm C.~Raghavan}, {\rm P.~A. Muyco}, {\rm M.~A.~L.
+  Sevilla}, {\rm I.~T. Lobina} {\em et~al.\/}, 2013 Multi-parent advanced
+  generation inter-cross ({MAGIC}) populations in rice: progress and potential
+  for genetics research and breeding.
+\newblock Rice {\bf 6}: 11.
+
+\bibitem[{{\rm Broman}(2005)}]{broman2005}
+{\rm Broman, K.~W.}, 2005 The genomes of recombinant inbred lines.
+\newblock Genetics {\bf 169}: 1133--1146.
+
+\bibitem[{{\rm Broman}(2012{\natexlab{a}})}]{broman2012a}
+{\rm Broman, K.~W.}, 2012{\natexlab{a}} Genotype probabilities at intermediate
+  generations in the construction of recombinant inbred lines.
+\newblock Genetics {\bf 190}: 403--412.
+
+\bibitem[{{\rm Broman}(2012{\natexlab{b}})}]{broman2012b}
+{\rm Broman, K.~W.}, 2012{\natexlab{b}} Haplotype probabilities in advanced
+  intercross populations.
+\newblock G3 (Bethesda) {\bf 2}: 199--202.
+
+\bibitem[{{\rm Broman} {\em et~al.\/}(2019{\natexlab{a}}){\rm Broman}, {\rm
+  Gatti}, {\rm Simecek}, {\rm Furlotte}, {\rm Prins} {\em et~al.\/}}]{rqtl2}
+{\rm Broman, K.~W.}, {\rm D.~M. Gatti}, {\rm P.~Simecek}, {\rm N.~A. Furlotte},
+  {\rm P.~Prins} {\em et~al.\/}, 2019{\natexlab{a}} R/qtl2: software for
+  mapping quantitative trait loci with high-dimensional data and multiparent
+  populations.
+\newblock Genetics {\bf 211}: 495--502.
+
+\bibitem[{{\rm Broman} {\em et~al.\/}(2019{\natexlab{b}}){\rm Broman}, {\rm
+  Gatti}, {\rm Svenson}, {\rm Sen} and {\rm Churchill}}]{broman2019}
+{\rm Broman, K.~W.}, {\rm D.~M. Gatti}, {\rm K.~L. Svenson}, {\rm {\'S}.~Sen},
+  and {\rm G.~A. Churchill}, 2019{\natexlab{b}} Cleaning genotype data from
+  {D}iversity {O}utbred mice.
+\newblock G3 (Bethesda) {\bf 9}: 1571--1579.
+
+\bibitem[{{\rm Broman} and {\rm Sen}(2009)}]{rqtlbook}
+{\rm Broman, K.~W.},  and {\rm S.~Sen}, 2009 {\em A guide to {QTL} mapping with
+  {R/qtl}\/}.
+\newblock Springer, New York.
+
+\bibitem[{{\rm Carter} and {\rm Falconer}(1951)}]{carter1951}
+{\rm Carter, T.},  and {\rm D.~Falconer}, 1951 Stocks for detecting linkage in
+  the mouse, and the theory of their design.
+\newblock Journal of Genetics {\bf 50}: 307--323.
+
+\bibitem[{{\rm Cavanagh} {\em et~al.\/}(2008){\rm Cavanagh}, {\rm Morell}, {\rm
+  Mackay} and {\rm Powell}}]{cavanagh2008}
+{\rm Cavanagh, C.}, {\rm M.~Morell}, {\rm I.~Mackay},  and {\rm W.~Powell},
+  2008 From mutations to {MAGIC}: resources for gene discovery, validation and
+  delivery in crop plants.
+\newblock Curr Opin Plant Biol {\bf 11}: 215--221.
+
+\bibitem[{{\rm Churchill} {\em et~al.\/}(2012){\rm Churchill}, {\rm Gatti},
+  {\rm Munger} and {\rm Svenson}}]{churchill2012}
+{\rm Churchill, G.~A.}, {\rm D.~M. Gatti}, {\rm S.~C. Munger},  and {\rm K.~L.
+  Svenson}, 2012 The diversity outbred mouse population.
+\newblock Mamm Genome {\bf 23}: 713--718.
+
+\bibitem[{{\rm {Complex Trait Consortium}}(2004)}]{ctc2004}
+{\rm {Complex Trait Consortium}}, 2004 The {C}ollaborative {C}ross, a community
+  resource for the genetic analysis of complex traits.
+\newblock Nat Genet {\bf 36}: 1133--1137.
+
+\bibitem[{{\rm de~Koning} and {\rm McIntyre}(2017)}]{dekoning2017}
+{\rm de~Koning, D.},  and {\rm L.~McIntyre}, 2017 Back to the future:
+  multiparent populations provide the key to unlocking the genetic basis of
+  complex traits.
+\newblock Genetics {\bf 206}: 527--529.
+
+\bibitem[{{\rm Dell’Acqua} {\em et~al.\/}(2015){\rm Dell’Acqua}, {\rm
+  Gatti}, {\rm Pea}, {\rm Cattonaro}, {\rm Coppens} {\em
+  et~al.\/}}]{dellacqua2015}
+{\rm Dell’Acqua, M.}, {\rm D.~M. Gatti}, {\rm G.~Pea}, {\rm F.~Cattonaro},
+  {\rm F.~Coppens} {\em et~al.\/}, 2015 Genetic properties of the {MAGIC} maize
+  population: a new platform for high definition {QTL} mapping in \emph{{Z}ea
+  mays}.
+\newblock Genome Biol {\bf 16}: 167.
+
+\bibitem[{{\rm Gatti} {\em et~al.\/}(2014){\rm Gatti}, {\rm Svenson}, {\rm
+  Shabalin}, {\rm Wu}, {\rm Valdar} {\em et~al.\/}}]{gatti2014}
+{\rm Gatti, D.~M.}, {\rm K.~L. Svenson}, {\rm A.~Shabalin}, {\rm L.-Y. Wu},
+  {\rm W.~Valdar} {\em et~al.\/}, 2014 Quantitative trait locus mapping methods
+  for diversity outbred mice.
+\newblock G3 (Bethesda) {\bf 4}: 1623--1633.
+
+\bibitem[{{\rm Haldane} and {\rm Waddington}(1931)}]{haldane1931}
+{\rm Haldane, J. B.~S.},  and {\rm C.~H. Waddington}, 1931 Inbreeding and
+  linkage.
+\newblock Genetics {\bf 16}: 357--374.
+
+\bibitem[{{\rm Huang} and {\rm George}(2011)}]{huang2011}
+{\rm Huang, B.~E.},  and {\rm A.~W. George}, 2011 R/mpmap: a computational
+  platform for the genetic analysis of multiparent recombinant inbred lines.
+\newblock Bioinformatics {\bf 27}: 727--729.
+
+\bibitem[{{\rm King} {\em et~al.\/}(2012){\rm King}, {\rm Merkes}, {\rm
+  McNeil}, {\rm Hoofer}, {\rm Sen} {\em et~al.\/}}]{king2012}
+{\rm King, E.~G.}, {\rm C.~M. Merkes}, {\rm C.~L. McNeil}, {\rm S.~R. Hoofer},
+  {\rm S.~Sen} {\em et~al.\/}, 2012 Genetic dissection of a model complex trait
+  using the {D}rosophila {S}ynthetic {P}opulation {R}esource.
+\newblock Genome Res {\bf 22}: 1558--1566.
+
+\bibitem[{{\rm Kover} {\em et~al.\/}(2009){\rm Kover}, {\rm Valdar}, {\rm
+  Trakalo}, {\rm Scarcelli}, {\rm Ehrenreich} {\em et~al.\/}}]{kover2009}
+{\rm Kover, P.~X.}, {\rm W.~Valdar}, {\rm J.~Trakalo}, {\rm N.~Scarcelli}, {\rm
+  I.~M. Ehrenreich} {\em et~al.\/}, 2009 A multiparent advanced generation
+  inter-cross to fine-map quantitative traits in {A}rabidopsis thaliana.
+\newblock PLoS Genet {\bf 5}: e1000551.
+
+\bibitem[{{\rm Lincoln} and {\rm Lander}(1992)}]{lincoln1992}
+{\rm Lincoln, S.~E.},  and {\rm E.~S. Lander}, 1992 Systematic detection of
+  errors in genetic linkage data.
+\newblock Genomics {\bf 14}: 604--610.
+
+\bibitem[{{\rm Morgan} {\em et~al.\/}(2016){\rm Morgan}, {\rm Fu}, {\rm Kao},
+  {\rm Welsh}, {\rm Didion} {\em et~al.\/}}]{morgan2016}
+{\rm Morgan, A.~P.}, {\rm C.-P. Fu}, {\rm C.-Y. Kao}, {\rm C.~E. Welsh}, {\rm
+  J.~P. Didion} {\em et~al.\/}, 2016 The {M}ouse {U}niversal {G}enotyping
+  {A}rray: from substrains to subspecies.
+\newblock G3 (Bethesda) {\bf 6}: 263--279.
+
+\bibitem[{{\rm Mott} {\em et~al.\/}(2000){\rm Mott}, {\rm Talbot}, {\rm Turri},
+  {\rm Collins} and {\rm Flint}}]{mott2000}
+{\rm Mott, R.}, {\rm C.~J. Talbot}, {\rm M.~G. Turri}, {\rm A.~C. Collins},
+  and {\rm J.~Flint}, 2000 A method for fine mapping quantitative trait loci in
+  outbred animal stocks.
+\newblock Proc Natl Acad Sci USA {\bf 97}: 12649--12654.
+
+\bibitem[{{\rm {R Core Team}}(2021)}]{rcore}
+{\rm {R Core Team}}, 2021 R: A language and environment for statistical
+  computing.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[{{\rm Rabiner}(1989)}]{rabiner1989}
+{\rm Rabiner, L.~R.}, 1989 A tutorial on hidden {M}arkov models and selected
+  applications in speech recognition.
+\newblock Proc. IEEE {\bf 77}: 257--286.
+
+\bibitem[{{\rm Solberg~Woods} {\em et~al.\/}(2010){\rm Solberg~Woods}, {\rm
+  Stelloh}, {\rm Regner}, {\rm Schwabe}, {\rm Eisenhauer} {\em
+  et~al.\/}}]{solberg2010}
+{\rm Solberg~Woods, L.~C.}, {\rm C.~Stelloh}, {\rm K.~R. Regner}, {\rm
+  T.~Schwabe}, {\rm J.~Eisenhauer} {\em et~al.\/}, 2010 Heterogeneous stock
+  rats: a new model to study the genetics of renal phenotypes.
+\newblock Am J Physiol Renal Physiol {\bf 298}: F1484--F1491.
+
+\bibitem[{{\rm Srivastava} {\em et~al.\/}(2017){\rm Srivastava}, {\rm Morgan},
+  {\rm Najarian}, {\rm Sarsani}, {\rm Sigmon} {\em et~al.\/}}]{srivastava2017}
+{\rm Srivastava, A.}, {\rm A.~P. Morgan}, {\rm M.~L. Najarian}, {\rm V.~K.
+  Sarsani}, {\rm J.~S. Sigmon} {\em et~al.\/}, 2017 Genomes of the mouse
+  {C}ollaborative {C}ross.
+\newblock Genetics {\bf 206}: 537--556.
+
+\bibitem[{{\rm Svenson} {\em et~al.\/}(2012){\rm Svenson}, {\rm Gatti}, {\rm
+  Valdar}, {\rm Welsh}, {\rm Cheng} {\em et~al.\/}}]{svenson2012}
+{\rm Svenson, K.~L.}, {\rm D.~M. Gatti}, {\rm W.~Valdar}, {\rm C.~E. Welsh},
+  {\rm R.~Cheng} {\em et~al.\/}, 2012 High-resolution genetic mapping using the
+  mouse {D}iversity {O}utbred population.
+\newblock Genetics {\bf 190}: 437--447.
+
+\bibitem[{{\rm Teuscher} and {\rm Broman}(2007)}]{teuscher2007}
+{\rm Teuscher, F.},  and {\rm K.~W. Broman}, 2007 Haplotype probabilities for
+  multiple-strain recombinant inbred lines.
+\newblock Genetics {\bf 175}: 1267--1274.
+
+\bibitem[{{\rm Yang} {\em et~al.\/}(2014){\rm Yang}, {\rm Zaitlen}, {\rm
+  Goddard}, {\rm Visscher} and {\rm Price}}]{yang2014}
+{\rm Yang, J.}, {\rm N.~A. Zaitlen}, {\rm M.~E. Goddard}, {\rm P.~M. Visscher},
+   and {\rm A.~L. Price}, 2014 Advantages and pitfalls in the application of
+  mixed-model association methods.
+\newblock Nat Genet {\bf 46}: 100--106.
+
+\bibitem[{{\rm Zheng} {\em et~al.\/}(2015){\rm Zheng}, {\rm Boer} and {\rm van
+  Eeuwijk}}]{zheng2015}
+{\rm Zheng, C.}, {\rm M.~P. Boer},  and {\rm F.~A. van Eeuwijk}, 2015
+  Reconstruction of genome ancestry blocks in multiparental populations.
+\newblock Genetics {\bf 200}: 1073--1087.
+
+\bibitem[{{\rm Zheng} {\em et~al.\/}(2018){\rm Zheng}, {\rm Boer} and {\rm van
+  Eeuwijk}}]{zheng2018}
+{\rm Zheng, C.}, {\rm M.~P. Boer},  and {\rm F.~A. van Eeuwijk}, 2018 Accurate
+  genotype imputation in multiparental populations from low-coverage sequence.
+\newblock Genetics {\bf 210}: 71--82.
+
+\end{thebibliography}

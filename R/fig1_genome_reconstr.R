@@ -49,11 +49,12 @@ p <- p[rn,]
 
 
 nf <- nrow(fg)
-
-pdf(here("Figs/fig1_genome_reconstr.pdf"), height=6.5, width=6, pointsize=14)
-
-layout(rbind(1,2,3,4), height=c(6,1,3.5,2.5))
-par(mar=c(0.6, 4.1, 1.6, 0.3))
+mydev <- png
+image_suffix <- "png"
+#mydev(here(paste0("Figs/fig1_genome_reconstr.", image_suffix)), height=6.5, width=6, pointsize=14)
+mydev(here(paste0("Figs/fig1a_genome_reconstr.", image_suffix)))
+#layout(rbind(1,2,3,4), height=c(6,1,3.5,2.5))
+#par(mar=c(0.6, 4.1, 1.6, 0.3))
 
 linecolor <- "gray90"
 pointcolor <- c("white", "gray", "black")
@@ -74,9 +75,12 @@ for(i in 1:nf) {
 box()
 u <- par("usr")
 text(u[1]-diff(u[1:2])*0.10, u[4]+diff(u[3:4])*0.04, "a", font=2, xpd=TRUE, cex=1.5)
+dev.off()
+
 
 
 # B: genotypes of DO individual
+mydev(here(paste0("Figs/fig1b_genome_reconstr.", image_suffix)))
 plot(0,0,type="n", xlab="", ylab="", xaxt="n", yaxt="n",
      xlim=range(amap), ylim=c(0.5, 1.5), yaxs="i", mgp=c(2.1, 0, 0))
 axis(side=2, at=1, label=paste0("DO-", ind), tick=FALSE, las=1, mgp=c(0, 0.2, 0))
@@ -86,9 +90,12 @@ points(amap, rep(1, nmar), pch=21, bg=pointcolor[g])
 box()
 u <- par("usr")
 text(u[1]-diff(u[1:2])*0.10, u[4]+diff(u[3:4])*0.50, "b", font=2, xpd=TRUE, cex=1.5)
-
+dev.off()
 
 # C: genotype probabilities
+
+mydev(here(paste0("Figs/fig1c_genome_reconstr.", image_suffix)))
+
 plot(0,0,type="n", xlab="", ylab="genotype probability", xaxt="n", yaxt="n",
      xlim=range(amap), ylim=c(-0.02, 1.02), yaxs="i", mgp=c(2.1, 0.3, 0))
 axis(side=2, at=seq(0, 1, by=0.2), mgp=c(0, 0.2, 0), las=1, tick=FALSE)
@@ -102,10 +109,11 @@ for(i in seq_along(probs)) {
 }
 box()
 text(u[1]-diff(u[1:2])*0.10, u[4]+diff(u[3:4])*0.06, "c", font=2, xpd=TRUE, cex=1.5)
-
+dev.off()
 
 # D: inferred genotypes
-par(mar=c(3.1, 4.1, 1.6, 0.3))
+mydev(here(paste0("Figs/fig1d_genome_reconstr.", image_suffix)))
+#par(mar=c(3.1, 4.1, 1.6, 0.3))
 plot(0,0,type="n", xlab=paste("Chr", chr, "position (Mbp)"), ylab="", yaxt="n", xaxt="n",
      xlim=range(amap), ylim=c(0.5, 2), yaxs="i", mgp=c(1.8, 0.6, 0))
 abline(v=ticks, col=linecolor)

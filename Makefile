@@ -1,6 +1,6 @@
 ### main manuscript
 
-all: gen_hmm.pdf DOapp/do_analysis.html CCapp/cc_analysis.html
+all: gen_hmm.pdf DOapp/do_analysis.html CCapp/cc_analysis.html Figs/fig1a_genome_reconstr.png
 
 R_OPTS=--no-save --no-restore --no-init-file --no-site-file # --vanilla, but without --no-environ
 
@@ -18,6 +18,8 @@ CCapp/cc_analysis.html: CCapp/cc_analysis.Rmd
 Figs/%.pdf: R/%.R DOapp/do_analysis.html CCapp/cc_analysis.html
 	mkdir -p $(<D); cd $(<D);R CMD BATCH $(R_OPTS) $(<F)
 
+Figs/fig1_genome_reconstr.png: R/fig1_genome_reconstr.R
+	mkdir -p $(<D); cd $(<D);R CMD BATCH $(R_OPTS) $(<F)
 # .tex to .pdf
 gen_hmm.pdf: LaTeX/gen_hmm.tex gen_hmm.bib genetics.bst $(FIGS)
 	cd LaTeX;pdflatex gen_hmm
